@@ -8,7 +8,7 @@ Running deep-learning frameworks such as PyTorch on the GPU requires a supportin
 
 * A recent version of Python. Note that the very latest version is sometimes not supported yet.
 * NVIDIA drivers. The driver version determines which version(s) of CUDA are supported.
-* NVIDIA's CUDA Deep Neural Network library (cuDNN). This libary contains GPU-optimised versions of mathematical operations used in deep learning.
+* NVIDIA's CUDA Deep Neural Network library (cuDNN). This libary contains GPU-optimised implementations of mathematical operations used in deep learning.
 
 ## Recommended installation procedure
 
